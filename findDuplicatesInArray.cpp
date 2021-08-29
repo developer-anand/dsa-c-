@@ -24,7 +24,6 @@
             hare = nums[hare];
             tortoise = nums[tortoise];
         }
-        
         return hare;
     }
     
